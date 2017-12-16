@@ -1,3 +1,6 @@
+## Install the packages
+
+## Copy the colorscheme
 
 ## Dark Theme
 Copy the theme folder to 
