@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Theme - Dark Material",
+		"Theme - One Dark",
+		"Vintage-Origami"
+	]
+}

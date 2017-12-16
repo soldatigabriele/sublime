@@ -1,0 +1,9 @@
+[
+	{ "keys": ["option+v"], "command": "create_pane", "args": {"direction": "right", "give_focus": true} },
+	{ "keys": ["option+h"], "command": "create_pane", "args": {"direction": "down", "give_focus": true} },
+	{ "keys": ["option+w"], "command": "destroy_pane", "args": {"direction": "self"} },
+	{ "keys": ["control+k"], "command": "travel_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["control+l"], "command": "travel_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["control+j"], "command": "travel_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["control+h"], "command": "travel_to_pane", "args": {"direction": "left"} },
+]

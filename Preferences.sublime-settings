@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Mvim.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		""
+	],
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"use_simple_full_screen": true,
+}
