@@ -6,11 +6,19 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CodeFormatter",
 		"Colorsublime",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML5",
 		"Material Theme",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
 		"Theme - Dark Material",
 		"Theme - One Dark",
 		"Vintage-Origami"
