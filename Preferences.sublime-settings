@@ -10,5 +10,7 @@
 	"material_theme_titlebar": true,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+    "show_panel_on_build": true
+
 }
