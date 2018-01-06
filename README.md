@@ -10,7 +10,7 @@ Copy the theme folder to
 ## PSR2 autoformatting with CS-Fixer
 Installation:
 ```
-composer global require friendsofphp/php-cs-fixer<br>
+composer global require friendsofphp/php-cs-fixer
 ```
 Add to the settings:<br>
 "show_panel_on_build": false<br>
@@ -22,13 +22,17 @@ Command+B to compile<br><br>
 ```
 composer require --dev barryvdh/laravel-ide-helper
 ```
+
 <br>
 Add in the app/config.php
+
 ```
 Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 ```
+
 <br>
 Add to the Composer.json<br>
+
 ```
 "scripts":{
     "post-update-cmd": [
