@@ -8,12 +8,35 @@ Copy the theme folder to
 <br>
 
 ## PSR2 autoformatting with CS-Fixer
-$ composer global require friendsofphp/php-cs-fixer<br>
+Installation:
+```
+composer global require friendsofphp/php-cs-fixer<br>
+```
 Add to the settings:<br>
 "show_panel_on_build": false<br>
 Set Tools->BuildSystem->PSR-2<br>
 Command+B to compile<br><br>
 
+## Autocomplete Laravel Sublime
 
+```
+composer require --dev barryvdh/laravel-ide-helper <br>
+```
+Add to the Composer.json<br>
 
+```
+"scripts":{
+    "post-update-cmd": [
+        "Illuminate\\Foundation\\ComposerScripts::postUpdate",
+        "php artisan ide-helper:generate",
+        "php artisan ide-helper:meta",
+        "php artisan optimize"
+    ]
+},
+```
 
+```
+php artisan ide-helper:generate
+<br>
+Composer update
+```
