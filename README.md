@@ -1,12 +1,12 @@
 ## Install the packages
-<br>
+
 ## Copy the colorscheme
-<br>
+
 ## Dark Theme
-Copy the theme folder to <br>
+Copy the theme folder to 
 /Users/gabri/Library/Application Support/Sublime Text 3/Packages/Material Theme
 <br>
-<br>
+
 ## PSR2 autoformatting with CS-Fixer
 $ composer global require friendsofphp/php-cs-fixer<br>
 Add to the settings:<br>
