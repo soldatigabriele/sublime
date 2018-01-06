@@ -20,10 +20,15 @@ Command+B to compile<br><br>
 ## Autocomplete Laravel Sublime
 
 ```
-composer require --dev barryvdh/laravel-ide-helper <br>
+composer require --dev barryvdh/laravel-ide-helper
 ```
+<br>
+Add in the app/config.php
+```
+Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+```
+<br>
 Add to the Composer.json<br>
-
 ```
 "scripts":{
     "post-update-cmd": [
@@ -37,6 +42,6 @@ Add to the Composer.json<br>
 
 ```
 php artisan ide-helper:generate
-<br>
+
 Composer update
 ```
