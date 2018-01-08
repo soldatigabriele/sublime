@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Mvim.tmTheme",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/Mvim (SL).tmTheme",
 	"font_size": 13,
 	"ignored_packages":
 	[
@@ -8,9 +9,8 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_tabs_separator": true,
 	"material_theme_titlebar": true,
+	"show_panel_on_build": false,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"use_simple_full_screen": true,
-    "show_panel_on_build": true
-
+	"use_simple_full_screen": true
 }
