@@ -9,10 +9,9 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_tabs_separator": true,
 	"material_theme_titlebar": true,
+	"phpunit-sublime-terminal": "iTerm",
 	"show_panel_on_build": false,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"use_simple_full_screen": true,
-	"phpunit-sublime-terminal": "iTerm",
-
+	"use_simple_full_screen": true
 }
