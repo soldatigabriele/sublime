@@ -1,4 +1,8 @@
 ## Install the packages
+Run sublime from the Terminal
+```
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
 
 ## Copy the colorscheme
 
