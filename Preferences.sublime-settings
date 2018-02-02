@@ -1,7 +1,7 @@
 {
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/Mvim (SL).tmTheme",
-	"font_size": 13,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		""
@@ -9,10 +9,9 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_tabs_separator": true,
 	"material_theme_titlebar": true,
+	"phpunit-sublime-terminal": "iTerm",
 	"show_panel_on_build": false,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"use_simple_full_screen": true,
-	"phpunit-sublime-terminal": "iTerm",
-
+	"use_simple_full_screen": true
 }
