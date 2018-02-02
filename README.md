@@ -1,4 +1,12 @@
 ## Install the packages
+Run sublime from the Terminal
+```
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+```
+Require PHPUnit globally
+```
+composer global require phpunit/phpunit
+```
 
 ## Copy the colorscheme
 
