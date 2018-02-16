@@ -13,5 +13,6 @@
 	"show_panel_on_build": false,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"ignore_vcs_packages": false
 }
