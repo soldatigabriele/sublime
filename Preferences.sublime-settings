@@ -1,7 +1,8 @@
 {
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/Mvim (SL).tmTheme",
-	"font_size": 15,
+	"font_size": 12,
+	"ignore_vcs_packages": false,
 	"ignored_packages":
 	[
 		""
@@ -13,6 +14,5 @@
 	"show_panel_on_build": false,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"use_simple_full_screen": true,
-	"ignore_vcs_packages": false
+	"use_simple_full_screen": true
 }
