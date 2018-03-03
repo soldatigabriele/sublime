@@ -1,6 +1,8 @@
 ## Clone
-Library/Application Support/Sublime Text 3/Packages/User
-
+Clone into
+``` 
+~/Library/Application Support/Sublime Text 3/Packages/User
+```
 
 ## Install the packages
 Run sublime from the Terminal
